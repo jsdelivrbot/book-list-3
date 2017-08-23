@@ -1,6 +1,6 @@
-# My To Do List
+# Book List
 
-To Do List with reactJs, add to do, mark complete to do, and delete to do
+Book list with react and redux, this is just simple example if you need simple boilerplate using react and redux
 
 ## Getting Started
 
