@@ -11,7 +11,7 @@ Checkout this repo, install dependencies, then start the process with the follow
 
 ```
 > git clone https://github.com/asepsetyawan/book-list.git
-> cd my-todo-list
+> cd book-list
 > npm install
 > npm start
 > open web browser, by default localhost:3000
